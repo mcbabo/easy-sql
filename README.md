@@ -10,6 +10,8 @@ SQL Wrapper for Python
 
 ```py
 pip install sqlight
+# or
+pip install -i https://test.pypi.org/simple/ sqlight
 ```
 
 ### Information: ###

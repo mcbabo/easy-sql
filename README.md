@@ -1,4 +1,4 @@
-# Easy SQL #
+# SQLight #
 
 SQL Wrapper for Python
 
